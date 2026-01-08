@@ -1,0 +1,1 @@
+Tipping point in LLM (Large Language Models) means the critical stage where the model suddenly becomes much more capable, even though we only made a small increase in data, parameters, or training quality.
