@@ -1,0 +1,6 @@
+Conversation history improves response quality initially, but degrades later.
+What is the tipping point and why?
+
+Solution :: 
+
+config.py ---> .env file (GEMINI_API_KEY, TIPPING_POINT, RECENT_MESSAGES) 
