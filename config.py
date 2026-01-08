@@ -1,4 +1,4 @@
-GEMINI_API_KEY="AIzaSyBdvEWVO4Qsk0KeXmhCPfeQ9DOEfvboOn4"
+GEMINI_API_KEY=""
 
 # TIPPING_POINT = 6        # after 6 messages
 # RECENT_MESSAGES = 2
